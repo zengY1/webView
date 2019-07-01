@@ -1,7 +1,13 @@
 # 苗小二的WebView
 
 ## 业绩排行和客户简报
+## 截屏
 
+客户简报：
+![](https://github.com/zengY1/webView/blob/master/public/clief.png)
+
+业绩简报：
+![](https://github.com/zengY1/webView/blob/master/public/achievement.png)
 ## 开发架构
 
 ### 技术：
